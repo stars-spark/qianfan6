@@ -1,5 +1,5 @@
 # About
-This is LiJiale's Blog. [Here is oringnal developer](https://github.com/saicaca/fuwari).
+This is Li Jiale's Blog. [Here is oringnal developer](https://github.com/saicaca/fuwari).
 
 ::github{repo="saicaca/fuwari"}
 
