@@ -2,9 +2,7 @@
 title: 记录一下-有生之年第一篇博客
 published: 2024-08-26
 description: '这是我 Astro 博客的第一篇文章'
-image:
-    url: 'https://docs.astro.build/assets/rose.webp'
-    alt: 'The Astro logo on a dark background with a pink glow.'
+image: './image.jpg'
 tags: ["astro", "blogging", "learning in public"]
 draft: false 
 ---
