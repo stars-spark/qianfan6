@@ -4,6 +4,7 @@ published: 2024-08-26
 description: '这是我 Astro 博客的第一篇文章'
 image: './image.jpg'
 tags: ["astro", "blogging", "learning in public"]
+category: 玩
 draft: false 
 ---
 
