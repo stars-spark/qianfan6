@@ -16,12 +16,12 @@ export const siteConfig: SiteConfig = {
   },
   banner: {
     enable: true,
-    src: 'assets/images/demo-banner.png',   // Relative to the /src directory. Relative to the /public directory if it starts with '/'
+    src: 'assets/images/demo2.png',   // Relative to the /src directory. Relative to the /public directory if it starts with '/'
     position: 'center', // Equivalent to object-position, defaults center
     credit: {
-      enable: false,         // Display the credit text of the banner image
-      text: '',              // Credit text to be displayed
-      url: ''                // (Optional) URL link to the original artwork or artist's page
+      enable: true,         // Display the credit text of the banner image
+      text: 'Chasing',              // Credit text to be displayed
+      url: 'https://www.pixiv.net/artworks/111024784'                // (Optional) URL link to the original artwork or artist's page
     }
   },
   favicon: [    // Leave this array empty to use the default favicon
