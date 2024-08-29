@@ -1,7 +1,7 @@
 ---
-title: Markdown Example
+title: Markdown(.md)编辑示例
 published: 2023-10-01
-description: A simple example of a Markdown blog post.
+description: '一个简单的编写博文示例.'
 tags: [Markdown, Blogging, Demo]
 category: Examples
 draft: false
