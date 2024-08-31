@@ -1,7 +1,17 @@
 # About
-This is Li Jiale's Blog. [Here is oringnal developer](https://github.com/saicaca/fuwari).
-
-::github{repo="saicaca/fuwari"}
+[Powered by](https://github.com/saicaca/fuwari).
+*I've seen the world,Done it all,had my cake now.
+Diamonds brilliant,and Bel-Air now,
+Hot summmer nights mid July.
+The crazy days,the city lights.
+---
+“我觉得这黄昏时最有意思，
+我不开灯，只沉默地站在窗前
+看暗夜渐渐织上天空
+织上对面的屋顶。”
+往事总是在回忆时被赋予意义，返回到当年的心境，看一看当时的悲欢和忧喜。
+*2024-08-31*
+::github{repo="stars-spark/qianfan6"}
 
 > ### Sources of images used in this site
 > - [Unsplash](https://unsplash.com/)
