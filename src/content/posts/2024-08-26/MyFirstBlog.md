@@ -1,8 +1,8 @@
 ---
-title: 记录一下-有生之年第一篇博客
+title: 记录一下-第一篇博客
 published: 2024-08-26
-description: '这是我 Astro 博客的第一篇文章'
-image: ''
+description: 'Astro 博客的第一篇文章'
+image: './10.png'
 tags: ["astro", "blogging", "learning in public"]
 category: Time
 draft: false 
