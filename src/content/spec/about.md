@@ -11,7 +11,7 @@ The crazy days,the city lights.
 
 ---
 
-往事总是在回忆时被赋予意义
+*往事总是在回忆时被赋予意义*
 
 *2024-08-31*
 ::github{repo="stars-spark/qianfan6"}
