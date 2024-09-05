@@ -1,7 +1,7 @@
 ---
 title: 如何全局配置C/C++编译器
 published: 2024-09-05
-description: 配置C/C++环境，并在VScode中运行你的代码
+description: '配置C/C++环境，并在VScode中运行你的代码'
 image: './b1.png'
 tags: [C/C++]
 category: '教程'
